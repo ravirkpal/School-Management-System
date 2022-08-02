@@ -1,0 +1,19 @@
+div{
+	width:500px;
+	height:550px;
+	border:10px solid black;
+	margin:auto;
+	padding-top: 20px;
+	padding-left: 150px;
+	margin-top: 50px;
+	background-color: lightgrey;
+	
+}
+
+input{
+	width:300px;
+	padding:10px;
+	font-size: 20px;
+	margin:10px;
+	
+}
